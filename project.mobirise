@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "The Pub Sample Site",
-    "currentPage": "contactus.html",
+    "currentPage": "menu.html",
     "theme": {
       "name": "restaurantm4",
       "title": "RestaurantM4",
